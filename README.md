@@ -6,8 +6,9 @@
  - Led Matrix RGB Ws2812b
  
 
- # Circuit Schematic
-
+ # Circuit Schemati
+ 
+![9vcomdin](https://user-images.githubusercontent.com/23202165/113362124-fd6f4b80-9323-11eb-9911-3c917ffece3e.png)
  
 # introduction
 
@@ -15,6 +16,7 @@ To install the ESP8266 board in the Arduino IDE you will need to go to:
 
 FILE –> PREFERENCES — >
 
+![configurar esp8266](https://user-images.githubusercontent.com/23202165/113362053-d7e24200-9323-11eb-8370-84329c2f6070.png)
 
 and add the following information in “Additional Boards Manager URLs:”
 
@@ -30,3 +32,7 @@ Forget to watch my Tutorial video for more information.
 
 # Download the Fastled Library created by Daniel Garcia and Mark Kriegsman here:
 http://fastled.io/
+
+# RGB Color Codes Chart
+![WhatsApp Image 2021-03-31 at 22 27 59](https://user-images.githubusercontent.com/23202165/113362228-48895e80-9324-11eb-9995-83a5d8d9a56d.jpeg)
+
