@@ -33,6 +33,16 @@ Forget to watch my Tutorial video for more information.
 # Download the Fastled Library created by Daniel Garcia and Mark Kriegsman here:
 http://fastled.io/
 
-# RGB Color Codes Chart
+# RGB Color Codes Chart:
 ![WhatsApp Image 2021-03-31 at 22 27 59](https://user-images.githubusercontent.com/23202165/113362228-48895e80-9324-11eb-9995-83a5d8d9a56d.jpeg)
+## Link to image :
+https://www.spriters-resource.com/custom_edited/pacmancustoms/sheet/124874/
 
+## Link to lcd image converter:
+https://sourceforge.net/projects/lcd-image-converter/
+
+# Watch
+
+### [![16x16 Led Matrix RGB Ws2812b with an ESP8266](http://img.youtube.com/vi/vACho2CK-8M/0.jpg)](http://www.youtube.com/watch?v=vACho2CK-8M "Controle da matriz de led RGB WS2812B 16x16 com ESP8266")
+
+### [![Picture for LED array Ws2812b with ESP8266](http://img.youtube.com/vi/hahnGPvC3-k/0.jpg)](http://www.youtube.com/watch?v=hahnGPvC3-k "Imagens para matriz de LED Ws2812b com ESP8266")
